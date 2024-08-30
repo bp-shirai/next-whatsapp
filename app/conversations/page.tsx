@@ -1,5 +1,5 @@
-import Image from "next/image";
+const Conversations = () => {
+  return <div>Empty state</div>;
+};
 
-export default function Page() {
-  return <div>conversations page</div>;
-}
+export default Conversations;

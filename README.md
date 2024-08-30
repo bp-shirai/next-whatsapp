@@ -8,8 +8,19 @@ npx shadcn-ui@latest init
 
 npm install @clerk/nextjs
 
+npm install svix
+
+## Install ngrok
+
+scoop install ngrok
+
+ngrok config add-authtoken ......
+
+ngrok http --domain=central-gradually-cardinal.ngrok-free.app 3000
+
 ## Getting Started
 
+T
 First, run the development server:
 
 ```bash
